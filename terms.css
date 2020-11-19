@@ -1,0 +1,10 @@
+div {
+  font-size: 6px;
+  margin: auto;
+  width: 50%;
+  height: 200px;
+  overflow-y: scroll;
+}
+h1 {
+  text-align: center;
+}
