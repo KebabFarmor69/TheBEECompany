@@ -98,18 +98,21 @@ li a:hover {
 }
 
 .signUpIndex {
-  background-color: rgba(0, 0, 0, 1);
+  background-color: #272727;
   transition: all 800ms;
   color: white;
-  padding: 3px;
+  padding: 5px;
   text-decoration: none;
   font-weight: 20px;
   margin: 10px;
+  text-align: center;
+  font-family: monospace;
+  border-radius: 10px;
 }
 .signUpIndex:hover {
   background-color: #a06b00;
   color: white;
   text-decoration: none;
-  padding: 5px;
+  padding: 6px;
   margin: 10px;
 }
